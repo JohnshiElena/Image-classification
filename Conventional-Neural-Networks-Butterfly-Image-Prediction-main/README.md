@@ -17,7 +17,7 @@ View confidence percentage for each class
 
 See performance metrics (Accuracy, Precision, Recall, F1-score)
 
-## Streamlit app : https://cnn-butterflyimageprediction.streamlit.app/
+## Streamlit app :  http://10.242.224.15:8501
 
 ## 🧠 Model Architecture
 
@@ -117,4 +117,5 @@ Deploy model on Hugging Face or Streamlit Cloud
 Use pretrained networks (e.g., MobileNetV2, EfficientNet)
 
 Improve dataset balance
+
 
